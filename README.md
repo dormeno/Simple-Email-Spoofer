@@ -9,6 +9,6 @@ This script is distributed for educational purposes only & use at own risk.
 ```
 
 ## Video
-[![Thumbnail](https://cdn.discordapp.com/attachments/698824449062862888/705693650608455700/DrWeabo_-_Simple_Email_Spoofer.mp4)](https://youtube.DrWeabo.com)
+[![Thumbnail](https://media.discordapp.net/attachments/698824449062862888/705697679812067348/unknown.png?width=973&height=547)](https://youtube.DrWeabo.com)
 
 © 2020 Copyright: DrWeabo Inc.
