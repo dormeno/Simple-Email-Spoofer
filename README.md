@@ -9,6 +9,6 @@ This script is distributed for educational purposes only & use at own risk.
 ```
 
 ## Video
-[![Thumbnail](https://media.discordapp.net/attachments/698824449062862888/705697679812067348/unknown.png?width=973&height=547)](https://youtube.DrWeabo.com)
+[![Thumbnail](https://media.discordapp.net/attachments/698824449062862888/705697679812067348/unknown.png?width=973&height=547)](https://media.discordapp.net/attachments/698824449062862888/705697679812067348/unknown.png?width=973&height=547)
 
 © 2020 Copyright: DrWeabo Inc.
