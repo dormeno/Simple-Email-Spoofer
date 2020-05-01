@@ -4,7 +4,7 @@ Email spoofing is the creation of email messages with a forged sender address. T
 
 ## Note
 ```
-- This script is distributed for educational purposes only & use at own risk.
+This script is distributed for educational purposes only & use at own risk.
 ```
 
 ## Video
